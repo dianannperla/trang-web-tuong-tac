@@ -1,14 +1,14 @@
 {
   "name": "trang-web-tuong-tac",
   "version": "1.0.0",
-  "description": "Thư viện frontend cho trang web tương tác.",
+  "description": "Thư viện frontend cho trang web tương tác với người dùng.",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
     "test": "jest"
   },
   "keywords": ["ui", "library", "frontend"],
-  "author": "", 
+  "author": "Your Name <your.email@example.com>", 
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
